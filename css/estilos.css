@@ -1,5 +1,24 @@
 body{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: lightgreen;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
+.container{
+    border: solid black 1px; 
+    border-radius: 40px;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.cabecera{
+    color: lightgreen;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.parrafo1,.post{
+    font-size: 22px;
+}
+    
+
