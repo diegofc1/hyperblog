@@ -2,6 +2,7 @@ body{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    background-color: black;
 }
 .container{
     border: solid black 1px; 
@@ -16,6 +17,15 @@ body{
     color: lightgreen;
     text-transform: uppercase;
     font-size: 25px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 40px;
+}
+.cabecera-imagen{
+    width:50px;
+    height: 50px;
 }
 .parrafo1,.post{
     font-size: 22px;
