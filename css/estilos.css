@@ -30,5 +30,18 @@ body{
 .parrafo1,.post{
     font-size: 22px;
 }
-    
 
+/*aqui comienza el diseño de nuestro footer*/
+.footer-elementos{
+    background: lightsalmon;
+    display: flex;
+    flex-direction: column;
+    border-radius:30px;
+    color: white;
+    padding: 10px;
+}
+.footer-elementos__elemento{
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 21px;
+}
