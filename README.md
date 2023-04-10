@@ -1,4 +1,4 @@
-##HYPERBLOG, UN BLOG INCREIBLE 💚
+## HYPERBLOG, UN BLOG INCREIBLE 💚
 Un blog increíble para el [curso de Git y GitHub](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/)
 > El curso de Git y GitHub es lo que me hacía falta para triplicar mi salario y unirme a la industria de la  tejido de lana sintética con Machine Learning
 > - niñita
